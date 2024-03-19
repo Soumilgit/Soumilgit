@@ -12,5 +12,4 @@ https://twitter.com/SoumilMukh6476
 Instagram:https://www.instagram.com/unwittinglywise/
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Soumilgit&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit)](https://github.com/Soumilgita/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&layout=pie)](https://github.com/Soumilgit/github-readme-stats)
