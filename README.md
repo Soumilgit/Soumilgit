@@ -1,3 +1,13 @@
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Soumilgit&theme=tokyonight&show_icons=true)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&layout=pie)](https://github.com/Soumilgit/github-readme-stats)
+
+
 # Profile
 Coding files for my Github profile.
 
@@ -24,13 +34,6 @@ https://twitter.com/SoumilMukh6476
 
 
 Instagram:https://www.instagram.com/unwittinglywise/
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Soumilgit&theme=tokyonight&show_icons=true)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&layout=pie)](https://github.com/Soumilgit/github-readme-stats)
 
 
 
