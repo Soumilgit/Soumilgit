@@ -17,5 +17,7 @@ Instagram:https://www.instagram.com/unwittinglywise/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&layout=pie)](https://github.com/Soumilgit/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=github-readme-stats)](https://github.com/Soumilgit/github-readme-stats)
+
 
 
