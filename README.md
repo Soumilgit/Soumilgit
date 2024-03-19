@@ -29,6 +29,9 @@ Instagram:https://www.instagram.com/unwittinglywise/
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Soumilgit&theme=tokyonight&show_icons=true)
 
 
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api?username=Soumilgit&theme=tokyonight&show_icons=true/cards?lineCount=1)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&layout=pie)](https://github.com/Soumilgit/github-readme-stats)
 
