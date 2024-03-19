@@ -5,7 +5,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&layout=pie)](https://github.com/Soumilgit/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)](https://github.com/Soumilgit/Soumilgit) </br> </br>
 
 
 # Profile
