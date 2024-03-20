@@ -1,4 +1,10 @@
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Soumilgit&theme=tokyonight&show_icons=true)
+
+
 #Tech Stack
+
 <div align="left">
   <img src="https://logowik.com/content/uploads/images/python.jpg" height="30" alt="Python logo" />
   <img width="12" />
@@ -10,12 +16,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-
-
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Soumilgit&theme=tokyonight&show_icons=true)
 
 
 
