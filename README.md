@@ -17,6 +17,14 @@
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" alt="css3 logo"  />
   <img width="32" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="75" alt="React logo"  />
+  <img width="32" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-16-1175195.png" height="75" alt="git logo"  />
+  <img width="32" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-10516009-8630395.png" height="75" alt="github logo"  />
+  <img width="32" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-google-drive-3215411-2673829.png" height="75" alt="Google Drive logo"  />
+  <img width="32" />
 </div>
 
 
