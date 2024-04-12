@@ -27,6 +27,9 @@
   <img width="32" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" height="75" alt="R Logo" />
   <img width="32" />
+  <img src="https://logowik.com/content/uploads/images/911_c_logo.jpg" height="75" alt="C++ Logo" />
+  <img width="32" />
+  
 </div>
 
 
