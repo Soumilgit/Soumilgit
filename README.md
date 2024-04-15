@@ -62,7 +62,7 @@ I am presently engaged in exploring industry-relevant skills.
 With a few work experiences under my belt,I want to make a good impact and contribution to the world.
 
 
-My hobbies include birding,am an avid wildlife lover and watcher,and like newspaper reading.
+My hobbies include birding,am an avid wildlife lover and watcher,volunteering and like newspaper reading.
 
 
 My strengths include sincerity and persistence,a never-say-die attitude.Let's connect and explore endless possibilites😄!
