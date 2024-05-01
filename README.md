@@ -8,7 +8,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Soumilgit&theme=tokyonight&show_icons=true)
 
 
-![Github forums](https://github.com/search?q=is%3Aissue%20commenter%3ASoumilgit&type=issues)
+
 
 
 <div align="left">
@@ -45,7 +45,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)]
 
 
-
+![Github forums](https://github.com/search?q=is%3Aissue%20commenter%3ASoumilgit&type=issues)
 
 # Profile
 Coding files for my Github profile.
