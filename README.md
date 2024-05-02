@@ -34,6 +34,12 @@
   <img width="32" />
   <img src="https://logowik.com/content/uploads/images/911_c_logo.jpg" height="75" alt="C++ Logo" />
   <img width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="75" alt="PHP Logo" />
+  <img width="32" />
+  <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" height="75" alt="PostgreSQL Logo" />
+  <img width="32" />
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="75" alt="MySQL Logo" />
+  <img width="32" />
   
 </div>
 
