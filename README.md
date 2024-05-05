@@ -55,7 +55,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
 
 ![All my Github forums discussions](https://github.com/orgs/community/discussions/23261)
 
