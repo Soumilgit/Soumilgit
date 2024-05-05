@@ -40,6 +40,11 @@
   <img width="32" />
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="75" alt="MySQL Logo" />
   <img width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="75" alt="Bootstrap Logo" />
+  <img width="32" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" height="75" alt="jQuery Logo" />
+  <img width="32" />
+  
   
 </div>
 
