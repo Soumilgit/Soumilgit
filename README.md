@@ -57,10 +57,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
 
-![All my Github forums discussions](https://github.com/orgs/community/discussions/23261)
 
-
-![Github forums](https://github.com/search?q=is%3Aissue%20commenter%3ASoumilgit&type=issues)
 
 # Profile
 Coding files for my Github profile.
