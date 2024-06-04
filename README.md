@@ -46,6 +46,9 @@
   <img width="32" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="75" alt="jQuery Logo" />
   <img width="32" />
+  <img src="https://miro.medium.com/v2/resize:fit:840/1*KKciGBpSE9sxj8aZ1Xdu-w.png" height="75" alt="Embedded JavaScript Logo" />
+  <img width="32" />
+  
   
   
 </div>
