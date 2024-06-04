@@ -58,7 +58,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
 
 
 
