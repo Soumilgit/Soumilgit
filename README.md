@@ -95,7 +95,7 @@ Unpinned repo,now pinned HERE!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Simple-random-Quote-Machine)](https://github.com/Soumilgit/Simple-random-Quote-Machine)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=PyQt-Tutorial-QtCreator-Learn)](https://github.com/Soumilgit/NPCIL-Internship)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=NPCIL-Internship)](https://github.com/Soumilgit/NPCIL-Internship)
 
 
 
