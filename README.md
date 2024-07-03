@@ -6,7 +6,6 @@
 
 
 <span>
-<a href="https://github.com/anuraghazra">
 
 <img height="300" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&theme=tokyonight&show=discussions_started,prs_merged&show_icons=true&theme=transparent" />
 </a>
