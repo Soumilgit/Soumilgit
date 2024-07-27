@@ -11,11 +11,7 @@
 </a>
 </span>
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  
-</div>
+
 
 
 
@@ -69,7 +65,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.5&count_weight=0.5&layout=compact&theme=light)
 
-
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  
+</div>
 
 
 
