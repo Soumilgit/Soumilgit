@@ -1,9 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Soumilgit)
 
-
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966 (1)](https://github.com/Soumilgit/Soumilgit/assets/120581772/af4507d1-555b-4f86-9ca5-97cbe34b5135)
-
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -14,6 +11,11 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   </a>
 </div>
+
+
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966 (1)](https://github.com/Soumilgit/Soumilgit/assets/120581772/af4507d1-555b-4f86-9ca5-97cbe34b5135)
+
+
 
 
 
