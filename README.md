@@ -71,7 +71,7 @@
   <img width="32" />
   <img src="https://miro.medium.com/v2/resize:fit:840/1*KKciGBpSE9sxj8aZ1Xdu-w.png" height="75" alt="Embedded JavaScript Logo" />
   <img width="32" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354202%2Fpostman-icon&psig=AOvVaw2RYh0Wq773KeW1dxUjp24v&ust=1726468024239000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjx_NuoxIgDFQAAAAAdAAAAABAE" height="75" alt="Postman Logo" />
+  <img src="https://www.cdnlogo.com/logos/p/20/postman.svg" height="75" alt="Postman Logo" />
   <img width="32" />
 
 
