@@ -125,7 +125,7 @@ Instagram:https://www.instagram.com/unwittinglywise/
 
 Unpinned repo,now pinned HERE!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Simple-random-Quote-Machine)](https://github.com/Soumilgit/Simple-random-Quote-Machine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Quiz-Website-Internship)](https://github.com/Soumilgit/Quiz-Website-Internship)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=NPCIL-Internship)](https://github.com/Soumilgit/NPCIL-Internship)
 
