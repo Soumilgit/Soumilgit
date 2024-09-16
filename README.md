@@ -51,7 +51,7 @@
   <img width="32" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-10516009-8630395.png" height="75" alt="github logo"  />
   <img width="32" />
-   <img src="https://www.cdnlogo.com/logos/v/78/vercel.svg" height="75" alt="Vercel logo"  />
+   <img src="https://curity.io/images/resources/code-examples/code-examples-vercel.jpg" height="75" alt="Vercel logo"  />
   <img width="32" />
   <img src="https://cdn-icons-png.flaticon.com/256/889/889113.png" height="75" alt="Google Drive logo"  />
   <img width="32" />
