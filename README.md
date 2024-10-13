@@ -83,6 +83,8 @@
   <img width="32" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumFQDq2SU3g4tMc0eiDKXcHLg_pflbGx00w&s" height="75" alt="TypeScript Logo" />
   <img width="32" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="75" alt="TypeScript Logo" />
+  <img width="32" />
 
 
 
