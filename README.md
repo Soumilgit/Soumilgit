@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Soumilgit)
 
+Unpinned repo,now pinned HERE!
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects)](https://github.com/Soumilgit/AI_ML_Projects)
 
 
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966 (1)](https://github.com/Soumilgit/Soumilgit/assets/120581772/af4507d1-555b-4f86-9ca5-97cbe34b5135)
@@ -118,9 +120,7 @@ https://twitter.com/SoumilMukh6476
 
 Instagram:https://www.instagram.com/unwittinglywise/
 
-Unpinned repo,now pinned HERE!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects)](https://github.com/Soumilgit/AI_ML_Projects)
 
 
 
