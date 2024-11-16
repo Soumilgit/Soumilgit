@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Soumilgit)
 
-Unpinned repo,now pinned HERE!
+Non-pinned repo,now pinned HERE!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects)](https://github.com/Soumilgit/AI_ML_Projects)
 
