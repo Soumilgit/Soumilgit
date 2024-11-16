@@ -122,7 +122,6 @@ Unpinned repo,now pinned HERE!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects)](https://github.com/Soumilgit/AI_ML_Projects)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=NPCIL-Internship)](https://github.com/Soumilgit/NPCIL-Internship)
 
 
 
