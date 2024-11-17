@@ -11,14 +11,12 @@ Non-pinned repo,now pinned HERE!
 
 <figure><embed src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/6cd17692-648d-4920-a9a5-18865a9d8eef.svg"></embed></figure>
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumilgit)](https://github.com/Soumilgit/github-readme-stats)
 
 
 
-<span>
 
-<img height="300" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&theme=tokyonight&show=discussions_started,prs_merged&show_icons=true&theme=dark" />
-</a>
-</span>
+
 
 
 
