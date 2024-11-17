@@ -87,7 +87,8 @@ Non-pinned repo,now pinned HERE!
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.5&count_weight=0.5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
+
 
 
 
