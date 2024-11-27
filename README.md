@@ -122,15 +122,15 @@ My strengths include sincerity and persistence,a never-say-die attitude.Let's co
 <h3>Connect with me:</h3>
 
 <a href="https://twitter.com/SoumilMukh6476">
-  <img src="https://pbs.twimg.com/profile_images/1683366300054069248/67v23AEj_400x400.jpg" alt="Twitter" width="50" height="50">
+  <img src="https://pbs.twimg.com/profile_images/1683366300054069248/67v23AEj_400x400.jpg" alt="Twitter" width="65" height="65">
 </a>
 
 <a href="https://www.instagram.com/soumil_m.exe/">
-  <img src="https://c.files.bbci.co.uk/C5CC/production/_89663605_instagram_logo_976.jpg" alt="Instagram" width="50" height="50">
+  <img src="https://c.files.bbci.co.uk/C5CC/production/_89663605_instagram_logo_976.jpg" alt="Instagram" width="65" height="60">
 </a>
 
 <a href="https://www.linkedin.com/in/soumilm30">
-  <img src="https://banner2.cleanpng.com/20180529/str/avpsm7w6e.webp" alt="LinkedIn" width="50" height="50">
+  <img src="https://banner2.cleanpng.com/20180529/str/avpsm7w6e.webp" alt="LinkedIn" width="65" height="65">
 </a>
 
 
