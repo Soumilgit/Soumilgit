@@ -126,7 +126,7 @@ My strengths include sincerity and persistence,a never-say-die attitude.Let's co
 </a>
 
 <a href="https://www.instagram.com/soumil_m.exe/">
-  <img src="https://c.files.bbci.co.uk/C5CC/production/_89663605_instagram_logo_976.jpg" alt="Instagram" width="65" height="60">
+  <img src="https://c.files.bbci.co.uk/C5CC/production/_89663605_instagram_logo_976.jpg" alt="Instagram" width="65" height="65">
 </a>
 
 <a href="https://www.linkedin.com/in/soumilm30">
