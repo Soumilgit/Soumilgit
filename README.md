@@ -119,7 +119,7 @@ My strengths include sincerity and persistence,a never-say-die attitude.Let's co
 
 ## My socials :
 
-[<img src="">](https://twitter.com/SoumilMukh6476)
+[<img src="https://pbs.twimg.com/profile_images/1683366300054069248/67v23AEj_400x400.jpg">](https://twitter.com/SoumilMukh6476)
 [<img src="">](https://www.instagram.com/soumil_m.exe/)
 [<img src="Downloads/x.jpg">](www.linkedin.com/in/soumilm30)
 
