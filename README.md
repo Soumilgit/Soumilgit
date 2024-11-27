@@ -1,4 +1,4 @@
-## Profile Views
+# Profile Views
 
 
 
@@ -7,18 +7,18 @@
 
 
 
-## Fun
+# Fun
 
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966 (1)](https://github.com/Soumilgit/Soumilgit/assets/120581772/af4507d1-555b-4f86-9ca5-97cbe34b5135)
 
 <figure><embed src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/6cd17692-648d-4920-a9a5-18865a9d8eef.svg"></embed></figure>
 
-## Unpinned stuff - pinned
+# Unpinned stuff - pinned
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects&theme=transparent)](https://github.com/Soumilgit/AI_ML_Projects)
 
-## My GitHub stats
+# My GitHub stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent)](https://github.com/Soumilgit/github-readme-stats)
 
@@ -31,7 +31,7 @@
 
 
 
-## Tech Stack
+# Tech Stack
 
 
 <div align="left">
@@ -121,7 +121,7 @@ My hobbies include birding,am an avid wildlife lover and watcher,volunteering an
 
 My strengths include sincerity and persistence,a never-say-die attitude.Let's connect and explore endless possibilites😄!
 
-## My socials :
+# My socials :
 
 
 <a href="https://twitter.com/SoumilMukh6476">
