@@ -1,6 +1,11 @@
 ## Profile Views
 
-![](https://komarev.com/ghpvc/?username=Soumilgit)
+<h3>Profile Views:</h3>
+
+<a href="https://github.com/Soumilgit">
+  <img src="https://komarev.com/ghpvc/?username=Soumilgit" alt="GitHub Profile Views" style="transform: scale(1.5);">
+</a>
+
 
 
 ## Fun
