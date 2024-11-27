@@ -2,9 +2,7 @@
 
 
 
-<a href="https://github.com/Soumilgit">
-  <img src="https://komarev.com/ghpvc/?username=Soumilgit" alt="GitHub Profile Views" style="transform: scale(4.5);">
-</a>
+![GitHub Views](https://komarev.com/ghpvc/?username=Soumilgit&style=flat&label=Profile+Views&color=blue&scale=2)
 
 
 
