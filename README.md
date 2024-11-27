@@ -1,9 +1,9 @@
 ## Profile Views
 
-<h3>Profile Views:</h3>
+
 
 <a href="https://github.com/Soumilgit">
-  <img src="https://komarev.com/ghpvc/?username=Soumilgit" alt="GitHub Profile Views" style="transform: scale(1.5);">
+  <img src="https://komarev.com/ghpvc/?username=Soumilgit" alt="GitHub Profile Views" style="transform: scale(4.5);">
 </a>
 
 
