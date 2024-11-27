@@ -2,7 +2,7 @@
 
 
 
-![GitHub Views](https://komarev.com/ghpvc/?username=Soumilgit&style=flat&label=Profile+Views&color=blue&scale=2)
+![Visitor Count](https://profile-counter.glitch.me/Soumilgit/count.svg)
 
 
 
