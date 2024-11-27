@@ -2,7 +2,8 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/Soumilgit/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=Soumilgit)
+
 
 
 
