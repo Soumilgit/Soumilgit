@@ -118,11 +118,10 @@ My hobbies include birding,am an avid wildlife lover and watcher,volunteering an
 My strengths include sincerity and persistence,a never-say-die attitude.Let's connect and explore endless possibilites😄!
 
 ## My socials :
-Twitter:
-https://twitter.com/SoumilMukh6476
 
-
-Instagram:https://www.instagram.com/unwittinglywise/
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fsupport&psig=AOvVaw3iLPocmS7zC0PMmwE2RzIP&ust=1732814036667000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDJ-bqB_YkDFQAAAAAdAAAAABAE">](https://twitter.com/SoumilMukh6476)
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fnewsbeat-36257455&psig=AOvVaw1fzIb-ml3EftpKy0YGHjw_&ust=1732814135499000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDh2OyB_YkDFQAAAAAdAAAAABAE">](https://www.instagram.com/soumil_m.exe/)
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F317750%2Flinkedin_icon&psig=AOvVaw3L1fkPwNRzOALt128Vq2dl&ust=1732814221821000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD59ZKC_YkDFQAAAAAdAAAAABAJ">](www.linkedin.com/in/soumilm30)
 
 
 
