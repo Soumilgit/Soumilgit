@@ -64,7 +64,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-454545?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Postman](https://img.shields.io/badge/Postman-FF8C00?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FFD580?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-e2e5de?style=for-the-badge&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-A9A9A9?style=for-the-badge&logo=vercel)
 ![Firebase](https://img.shields.io/badge/-firebase-FFDF00?style=for-the-badge&logo=firebase)
 ![Latex](https://img.shields.io/badge/-latex-013220?style=for-the-badge&logo=latex) 
