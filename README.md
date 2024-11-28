@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I am Soumil Mukhopadhyay!</h1>
 <h3 align="center">A enthusiastic developer from Mumbai,India.</h3>
-<h3 align="center">With a few work experiences under my belt,I want to make a good impact and contribution to the world.</h3>
+<h3 align="center">With a few work experiences under my belt,I want to make a good impact and contribution to the world!</h3>
 
 # <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> My socials :
 
