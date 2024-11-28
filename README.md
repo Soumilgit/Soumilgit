@@ -55,7 +55,7 @@
 ![C](https://img.shields.io/badge/c-4B0082?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8F00FF?style=for-the-badge&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-39FF14?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D98BA?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-013220?style=for-the-badge&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-808080?style=for-the-badge&logo=express)
