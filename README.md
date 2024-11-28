@@ -33,7 +33,7 @@
 
 
 
-# My GitHub stats
+# <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent)](https://github.com/Soumilgit/github-readme-stats)
 
