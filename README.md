@@ -3,7 +3,7 @@
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Soumilgit)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumilgit&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Soumilgit" /> </p>
 
 
 # Profile
