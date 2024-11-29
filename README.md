@@ -62,6 +62,7 @@
 ![App Dev](https://img.shields.io/badge/Android-4B0082?style=for-the-badge&logo=android&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-454545?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Postman](https://img.shields.io/badge/Postman-FF8C00?style=for-the-badge&logo=postman&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-googlecloud-9ACD32?style=for-the-badge&logo=googlecloud) 
 ![Git](https://img.shields.io/badge/-Git-FFD580?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-b2beb5?style=for-the-badge&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-3a3b3c?style=for-the-badge&logo=vercel)
@@ -74,7 +75,7 @@
 ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) 
 ![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui) 
 ![SCSS](https://img.shields.io/badge/-scss-df4ec8?style=for-the-badge&logo=scss) 
-![Google Cloud](https://img.shields.io/badge/-googlecloud-9ACD32?style=for-the-badge&logo=googlecloud) 
+
 
 # Unpinned stuff - pinned
 
