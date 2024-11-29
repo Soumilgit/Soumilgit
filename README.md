@@ -56,7 +56,6 @@
 ![C++](https://img.shields.io/badge/c++-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8F00FF?style=for-the-badge&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D98BA?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-013220?style=for-the-badge&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-808080?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/-ReactJS-448ee4?style=for-the-badge&logo=react)
@@ -75,6 +74,7 @@
 ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) 
 ![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui) 
 ![SCSS](https://img.shields.io/badge/-scss-df4ec8?style=for-the-badge&logo=scss) 
+![Google Cloud](https://img.shields.io/badge/-googlecloud-df4ec8?style=for-the-badge&logo=googlecloud) 
 
 # Unpinned stuff - pinned
 
