@@ -74,7 +74,7 @@
 ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) 
 ![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui) 
 ![SCSS](https://img.shields.io/badge/-scss-df4ec8?style=for-the-badge&logo=scss) 
-![Google Cloud](https://img.shields.io/badge/-googlecloud-df4ec8?style=for-the-badge&logo=googlecloud) 
+![Google Cloud](https://img.shields.io/badge/-googlecloud-9ACD32?style=for-the-badge&logo=googlecloud) 
 
 # Unpinned stuff - pinned
 
