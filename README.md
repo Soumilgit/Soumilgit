@@ -37,7 +37,7 @@
 <div align="center">
 
 
-<p><img width=45% align="left" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent" alt="Soumilgit" /></p>
+<p><img width=45.05% align="left" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent" alt="Soumilgit" /></p>
 <p>&nbsp;<img width=33.1%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Soumilgit" /></p>
 
 
