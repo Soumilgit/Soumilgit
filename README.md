@@ -32,15 +32,24 @@
 
 # <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent)](https://github.com/Soumilgit/github-readme-stats)
+[![My GitHub stats]()](https://github.com/Soumilgit/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)
+![Top Langs]()
 
 
-<img width=45% align="center" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/6cd17692-648d-4920-a9a5-18865a9d8eef.svg"/>
+<img width=45% align="center" src=""/>
+
+<div align="center">
 
 
+<p><img width=45% align="left" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent&" alt="Soumilgit" /></p>
+<p>&nbsp;<img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Soumilgit" /></p>
+
+
+<img width=45% align="left" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/6cd17692-648d-4920-a9a5-18865a9d8eef.svg"/>
+
+</div>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Tech Stack
 
