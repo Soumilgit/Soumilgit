@@ -59,7 +59,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-013220?style=for-the-badge&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-808080?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/-ReactJS-448ee4?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/ReactNative-4B0082?style=for-the-badge&logo=reactnative&logoColor=white)
+![React Native](https://img.shields.io/badge/ReactNative-4B0082?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-454545?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Postman](https://img.shields.io/badge/Postman-FF8C00?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-googlecloud-9ACD32?style=for-the-badge&logo=googlecloud) 
