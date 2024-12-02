@@ -38,7 +38,7 @@
 
 
 <p><img width=45% align="left" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent" alt="Soumilgit" /></p>
-<p>&nbsp;<img width=33.5%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Soumilgit" /></p>
+<p>&nbsp;<img width=33.5%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&layout=compact&theme=transparent" alt="Soumilgit" /></p>
 
 
 <img width=45% align="left" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/6441e8d3-a8cb-4ff1-bb39-094bca474362.svg"/>
