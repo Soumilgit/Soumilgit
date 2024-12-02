@@ -39,7 +39,7 @@
 
 
 <p><img width=45% align="left" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent&" alt="Soumilgit" /></p>
-<p>&nbsp;<img width=45% align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Soumilgit" /></p>
+<p>&nbsp;<img width=45% align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.3&count_weight=0.3&layout=compact&theme=transparent" alt="Soumilgit" /></p>
 </div>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Tech Stack
