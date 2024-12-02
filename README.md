@@ -74,7 +74,7 @@
 ![Expo](https://img.shields.io/badge/-expo-888888?style=for-the-badge&logo=expo) 
 ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) 
 ![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui) 
-
+![SCSS](https://img.shields.io/badge/-SCSS-0000FF?style=for-the-badge&logo=sass) 
 
 # Unpinned stuff - pinned
 
