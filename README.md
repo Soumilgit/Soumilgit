@@ -70,7 +70,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-3a3b3c?style=for-the-badge&logo=vercel)
 ![Firebase](https://img.shields.io/badge/-firebase-FFAE42?style=for-the-badge&logo=firebase)
 ![Latex](https://img.shields.io/badge/-latex-013220?style=for-the-badge&logo=latex) 
-![TypeScript](https://img.shields.io/badge/-typescript-00008B?style=for-the-badge&logo=typescript) 
+![TypeScript](https://img.shields.io/badge/-typescript-00008B?style=for-the-badge&logo=typescript&logoColor=white) 
 ![PHP](https://img.shields.io/badge/-php-FFB6C1?style=for-the-badge&logo=php) 
 ![JQuery](https://img.shields.io/badge/-jquery-AECCE4?style=for-the-badge&logo=jquery) 
 ![Expo](https://img.shields.io/badge/-expo-888888?style=for-the-badge&logo=expo) 
