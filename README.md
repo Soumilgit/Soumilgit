@@ -4,11 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumilgit&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Soumilgit" /> </p>
 
-# GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
-
-
-![github-wrapped](https://github.com/user-attachments/assets/b3a821d2-09d5-47d2-a5f3-7919684b0537)
-
 
 # Profile
 
@@ -88,7 +83,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects&theme=transparent)](https://github.com/Soumilgit/AI_ML_Projects)
 
 
+# GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
 
+
+![github-wrapped](https://github.com/user-attachments/assets/b3a821d2-09d5-47d2-a5f3-7919684b0537)
 
 
 
