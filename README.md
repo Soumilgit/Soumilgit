@@ -43,6 +43,9 @@
 <img width=45% align="left" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/94490568-18ad-4850-a6e0-455b3720f5c7.svg"/>
 <img width=45% align="center" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/c12b02f9-15c5-4541-ba36-17e221bf43ef.svg"/>
 
+## GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
+![github-wrapped](https://github.com/user-attachments/assets/b3a821d2-09d5-47d2-a5f3-7919684b0537)
+
 </div>
 
 
@@ -83,10 +86,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects&theme=transparent)](https://github.com/Soumilgit/AI_ML_Projects)
 
 
-# GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
 
 
-![github-wrapped](https://github.com/user-attachments/assets/b3a821d2-09d5-47d2-a5f3-7919684b0537)
+
+
 
 
 
