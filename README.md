@@ -2,8 +2,11 @@
 # Profile Views
 
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumilgit&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Soumilgit" /> </p>
+
+# GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
+
+![github-wrapped](https://github.com/user-attachments/assets/98c97426-6fb7-4063-aa2b-86c4715dc361)
 
 
 # Profile
