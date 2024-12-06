@@ -6,7 +6,7 @@
 
 # GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
 
-![github-wrapped](https://github.com/user-attachments/assets/98c97426-6fb7-4063-aa2b-86c4715dc361)
+https://www.githubwrapped.io/Soumilgit
 
 
 # Profile
