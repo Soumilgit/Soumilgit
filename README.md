@@ -84,7 +84,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects&theme=transparent)](https://github.com/Soumilgit/AI_ML_Projects)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Neetcode-150_Hard_Problems_Solutions&theme=transparent)](https://github.com/Soumilgit/Neetcode-150_Hard_Problems_Solutions)
 
 
 
