@@ -82,21 +82,8 @@
 
 # Unpinned stuff - pinned
 
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Soumilgit/AI_ML_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects&theme=transparent" alt="AI_ML_Projects">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Soumilgit/Neetcode-150_Hard_Problems_Solutions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Neetcode-150_Hard_Problems_Solutions&theme=transparent" alt="Neetcode-150_Hard_Problems_Solutions">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects&theme=transparent)](https://github.com/Soumilgit/AI_ML_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Neetcode-150_Hard_Problems_Solutions&theme=transparent)](https://github.com/Soumilgit/Neetcode-150_Hard_Problems_Solutions) 
 
 
 
