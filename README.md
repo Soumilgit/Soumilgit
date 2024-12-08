@@ -26,6 +26,11 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" >
 </a>
 
+<a href="https://www.codechef.com/users/spry_deer_42">
+  <img src="https://img.shields.io/badge/CodeChef-red?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" style="margin-bottom: 5px;">
+</a>
+
+
 # My Resume
 
 <a href="https://drive.google.com/file/d/1wcpqQ5mhX6uojF1Wg2nfrLWIytAXIys2/view?usp=sharing">
