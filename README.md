@@ -43,6 +43,9 @@
 <img width=45% align="left" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/94490568-18ad-4850-a6e0-455b3720f5c7.svg"/>
 <img width=45% align="center" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/c12b02f9-15c5-4541-ba36-17e221bf43ef.svg"/>
 
+## GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
+
+![github-wrapped (2)](https://github.com/user-attachments/assets/177763a9-a0cf-471e-a4a6-cfa0a040c6df)
 
 </div>
 
@@ -96,9 +99,7 @@
 </table>
 
 
-# GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
 
-![github-wrapped (2)](https://github.com/user-attachments/assets/177763a9-a0cf-471e-a4a6-cfa0a040c6df)
 
 
 
