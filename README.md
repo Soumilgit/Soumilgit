@@ -26,6 +26,12 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" >
 </a>
 
+# My Resume
+<a href="https://drive.google.com/file/d/1wcpqQ5mhX6uojF1Wg2nfrLWIytAXIys2/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Google%20Drive-red?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive Link" style="margin-bottom: 5px;">
+</a>
+
+
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python)
