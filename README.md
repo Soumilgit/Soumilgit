@@ -94,7 +94,8 @@
 
 ## GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
 
-![github-wrapped (2)](https://github.com/user-attachments/assets/177763a9-a0cf-471e-a4a6-cfa0a040c6df)
+![github-wrapped (3)](https://github.com/user-attachments/assets/9de7ecbc-dd25-43c9-b798-055cc05de33b)
+
 
 </div>
 
