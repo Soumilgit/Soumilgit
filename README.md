@@ -26,30 +26,6 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" >
 </a>
 
-
-
-
-# <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
-
-
-
-<div align="center">
-
-
-<p><img width=45.25% align="left" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent" alt="Soumilgit" /></p>
-<p><img width=29.5%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Soumilgit" /></p>
-
-
-<img width=45% align="left" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/94490568-18ad-4850-a6e0-455b3720f5c7.svg"/>
-<img width=45% align="center" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/c12b02f9-15c5-4541-ba36-17e221bf43ef.svg"/>
-
-## GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
-
-![github-wrapped (2)](https://github.com/user-attachments/assets/177763a9-a0cf-471e-a4a6-cfa0a040c6df)
-
-</div>
-
-
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python)
@@ -80,6 +56,29 @@
 ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) 
 ![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui) 
 ![SCSS](https://img.shields.io/badge/-SCSS-0000FF?style=for-the-badge&logo=sass) 
+
+
+# <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
+
+
+
+<div align="center">
+
+
+<p><img width=45.25% align="left" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent" alt="Soumilgit" /></p>
+<p><img width=29.5%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=11&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Soumilgit" /></p>
+
+
+<img width=45% align="left" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/94490568-18ad-4850-a6e0-455b3720f5c7.svg"/>
+<img width=45% align="center" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/c12b02f9-15c5-4541-ba36-17e221bf43ef.svg"/>
+
+## GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
+
+![github-wrapped (2)](https://github.com/user-attachments/assets/177763a9-a0cf-471e-a4a6-cfa0a040c6df)
+
+</div>
+
+
 
 # Unpinned stuff - pinned
 
