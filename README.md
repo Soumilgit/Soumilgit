@@ -32,7 +32,7 @@
 
 
 
-# My Resume
+# <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> My Resume
 
 <a href="https://drive.google.com/file/d/1wcpqQ5mhX6uojF1Wg2nfrLWIytAXIys2/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
