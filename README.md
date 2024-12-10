@@ -102,7 +102,7 @@
 
 
 
-# Unpinned stuff - pinned
+# Pinned repositories ⬇️ :
 
 <table>
   <tr>
