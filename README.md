@@ -14,7 +14,7 @@
 # <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> My socials :
 
 <a href="https://www.codechef.com/users/spry_deer_42">
-  <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" style="margin-bottom: 5px;">
+  <img src="https://img.shields.io/badge/CodeChef-red?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" style="margin-bottom: 5px;">
 </a>
 
 <a href="https://www.linkedin.com/in/soumilm30/">
@@ -32,7 +32,7 @@
 # <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> My Resume
 
 <a href="https://drive.google.com/file/d/1sV-_nMs3WdV4s9VtHU430AT1nYo1dKAX/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
+  <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
 </a>
 
 
