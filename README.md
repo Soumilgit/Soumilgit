@@ -106,7 +106,7 @@
 
 <table>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <a href="https://github.com/Soumilgit/Screen-Recorder_ChromeExtension">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Screen-Recorder_ChromeExtension&theme=transparent" alt="Screen-Recorder_ChromeExtension">
       </a>
