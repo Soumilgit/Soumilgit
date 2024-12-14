@@ -112,8 +112,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Soumilgit/Neetcode-150_Hard_Problems_Solutions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Neetcode-150_Hard_Problems_Solutions&theme=transparent" alt="Neetcode-150_Hard_Problems_Solutions">
+      <a href="https://github.com/Soumilgit/Innoquest-Hackerspace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Innoquest-Hackerspace&theme=transparent" alt="https://github.com/Soumilgit/Innoquest-Hackerspace">
       </a>
     </td>
   </tr>
