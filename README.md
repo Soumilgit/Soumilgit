@@ -84,13 +84,6 @@
 <img width=45% align="left" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/94490568-18ad-4850-a6e0-455b3720f5c7.svg"/>
 <img width=45% align="center" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/c12b02f9-15c5-4541-ba36-17e221bf43ef.svg"/>
 
-## GitHub Wrapped 2024 (GitHub Unwrapped 2024 coming soon!)
-
-![github-wrapped (6)](https://github.com/user-attachments/assets/8d669a13-d005-4f94-805a-1a0eb7962280)
-
-
-
-
 </div>
 
 
