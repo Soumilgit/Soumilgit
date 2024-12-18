@@ -5,6 +5,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumilgit&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Soumilgit" /></p>
 
 
+# Git Wrapped
+
+![git-wrapped-Soumilgit (1)](https://github.com/user-attachments/assets/299345cf-a77b-4036-9f33-dc5919257642)
+
 # Profile
 
 <h1 align="center">Hi 👋, I am Soumil Mukhopadhyay!</h1>
@@ -112,10 +116,6 @@
   </tr>
 </table>
 
-
-# Git Wrapped
-
-![git-wrapped-Soumilgit (1)](https://github.com/user-attachments/assets/299345cf-a77b-4036-9f33-dc5919257642)
 
 
 
