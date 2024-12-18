@@ -113,8 +113,9 @@
 </table>
 
 
+# Git Wrapped
 
-
+![git-wrapped-Soumilgit (1)](https://github.com/user-attachments/assets/299345cf-a77b-4036-9f33-dc5919257642)
 
 
 
