@@ -15,19 +15,18 @@
 <h3 align="center">A enthusiastic developer from Mumbai,India.</h3>
 <h3 align="center">With a few work experiences under my belt,I want to make a good impact and contribution to the world!</h3>
 
-# <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> My Linktree :
+# <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> My Links
 
-<a href="https://linktr.ee/SoumilM">
-  <img src="https://img.shields.io/badge/Linktree-%23000000.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
-</a>
+<div style="display: flex; gap: 10px; align-items: center; margin-top: 5px;">
+  <a href="https://linktr.ee/SoumilM">
+    <img src="https://img.shields.io/badge/Linktree-%2300FF00.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
+  </a>
+  
+  <a href="https://drive.google.com/file/d/10HdNaStxYz1KMtNhhhoC9sVqYRo3lb3E/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
+  </a>
+</div>
 
-
-
-# <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> My Full-Stack Resume
-
-<a href="https://drive.google.com/file/d/10HdNaStxYz1KMtNhhhoC9sVqYRo3lb3E/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
-</a>
 
 
 
