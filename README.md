@@ -9,12 +9,6 @@
 
 ![git-wrapped-Soumilgit (1)](https://github.com/user-attachments/assets/299345cf-a77b-4036-9f33-dc5919257642)
 
-# Profile
-
-<h1 align="center">Hi 👋, I am Soumil Mukhopadhyay!</h1>
-<h3 align="center">A enthusiastic developer from Mumbai,India.</h3>
-<h3 align="center">With a few work experiences under my belt,I want to make a good impact and contribution to the world!</h3>
-
 # <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> My Links
 
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 5px;">
@@ -26,6 +20,12 @@
     <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
   </a>
 </div>
+
+
+# Profile
+
+<h1 align="center">Hi 👋, I am Soumil Mukhopadhyay, an enthusiastic developer from Mumbai,India.</h3>
+
 
 
 
