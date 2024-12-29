@@ -22,11 +22,6 @@
 </div>
 
 
-# Profile
-
-<h1 align="center">Hi 👋, I am Soumil Mukhopadhyay, an enthusiastic developer from Mumbai,India.</h3>
-
-
 
 
 
