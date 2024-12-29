@@ -4,11 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumilgit&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Soumilgit" /></p>
 
-
-# Git Wrapped
-
-![git-wrapped-Soumilgit (1)](https://github.com/user-attachments/assets/299345cf-a77b-4036-9f33-dc5919257642)
-
 # <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> My Links
 
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 5px;">
@@ -20,6 +15,11 @@
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
   </a>
 </div>
+
+# Git Wrapped
+
+![git-wrapped-Soumilgit (1)](https://github.com/user-attachments/assets/299345cf-a77b-4036-9f33-dc5919257642)
+
 
 
 
