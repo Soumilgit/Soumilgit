@@ -15,23 +15,7 @@
 <h3 align="center">A enthusiastic developer from Mumbai,India.</h3>
 <h3 align="center">With a few work experiences under my belt,I want to make a good impact and contribution to the world!</h3>
 
-# <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> My socials :
-
-<a href="https://www.codechef.com/users/spry_deer_42">
-  <img src="https://img.shields.io/badge/CodeChef-red?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" style="margin-bottom: 5px;">
-</a>
-
-<a href="https://www.linkedin.com/in/soumilm30/">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" >
-</a>
-
-<a href="https://www.instagram.com/soumil_m.exe/">
-  <img src=https://img.shields.io/badge/instagram-9C2FB7.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" >
-</a>
-
-<a href="https://twitter.com/SoumilMukh6476/">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-bottom: 5px;">
-</a>
+# <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> My Linktree :
 
 <a href="https://linktr.ee/SoumilM">
   <img src="https://img.shields.io/badge/Linktree-%23000000.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
