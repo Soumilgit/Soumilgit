@@ -86,15 +86,15 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://github.com/Soumilgit/Screen-Recorder_ChromeExtension">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Screen-Recorder_ChromeExtension&theme=transparent" alt="Screen-Recorder_ChromeExtension">
+      <a href="https://github.com/Soumilgit/AI_ML_Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects&theme=transparent" alt="AI_ML_Projects">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Soumilgit/AI_ML_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects&theme=transparent" alt="AI_ML_Projects">
+      <a href="https://github.com/Soumilgit/Screen-Recorder_ChromeExtension">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Screen-Recorder_ChromeExtension&theme=transparent" alt="Screen-Recorder_ChromeExtension">
       </a>
     </td>
     <td>
