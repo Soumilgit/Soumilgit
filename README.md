@@ -21,14 +21,6 @@
   
 </div>
 
-# Git Wrapped
-
-![git-wrapped-Soumilgit (1)](https://github.com/user-attachments/assets/299345cf-a77b-4036-9f33-dc5919257642)
-
-
-
-
-
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Tech Stack
 
