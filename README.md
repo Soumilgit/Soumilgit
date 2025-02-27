@@ -10,13 +10,16 @@
   <a href="https://linktr.ee/SoumilM">
     <img src="https://img.shields.io/badge/Linktree-%23006400.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
   </a>
-  
+    <a href="https://soumilm.vercel.app">
+    <img src="https://img.shields.io/badge/Potfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Link" style="margin-bottom: 5px;">
+    </a>
   <a href="https://drive.google.com/file/d/11LBB_cY0aNjETEe9FboX52prScA1X8I7/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
   </a>
   <a href="https://tr.ee/mnjvI-WcHn">
-    <img src="https://img.shields.io/badge/Chatbot-red?style=for-the-badge&logo=chatbot&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/Chatbot-red?style=for-the-badge&logo=chatbot&logoColor=white" alt="Chatbot Link" style="margin-bottom: 5px;">
 </a>
+
 
   
 </div>
