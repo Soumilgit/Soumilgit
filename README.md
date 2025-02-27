@@ -46,6 +46,7 @@
 ![Google Cloud](https://img.shields.io/badge/-googlecloud-9ACD32?style=for-the-badge&logo=googlecloud) 
 ![Git](https://img.shields.io/badge/-Git-FFD580?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-b2beb5?style=for-the-badge&logo=github)
+![Vim](https://img.shields.io/badge/-Vim-f6cac0?style=for-the-badge&logo=vim)
 ![Vercel](https://img.shields.io/badge/-Vercel-3a3b3c?style=for-the-badge&logo=vercel)
 ![Firebase](https://img.shields.io/badge/-firebase-FFAE42?style=for-the-badge&logo=firebase)
 ![Latex](https://img.shields.io/badge/-latex-013220?style=for-the-badge&logo=latex) 
