@@ -56,7 +56,7 @@
 ![Expo](https://img.shields.io/badge/-expo-888888?style=for-the-badge&logo=expo) 
 ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) 
 ![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui) 
-![SCSS](https://img.shields.io/badge/-SCSS-c800FF?style=for-the-badge&logo=sass) 
+![SCSS](https://img.shields.io/badge/-SCSS-e1f0fa?style=for-the-badge&logo=sass) 
 
 
 # <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
