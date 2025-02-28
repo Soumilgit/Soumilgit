@@ -55,9 +55,11 @@
 ![JQuery](https://img.shields.io/badge/-jquery-AECCE4?style=for-the-badge&logo=jquery) 
 ![Expo](https://img.shields.io/badge/-expo-888888?style=for-the-badge&logo=expo) 
 ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) 
-![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui) 
+![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui)
+![Flask](https://img.shields.io/badge/Flask-8f8b66?style=for-the-badge&logo=8f8b66&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-e1f0fa?style=for-the-badge&logo=sass) 
 ![Next.js](https://img.shields.io/badge/Next.js-db4c77?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 # <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
 
