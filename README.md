@@ -56,7 +56,7 @@
 ![Expo](https://img.shields.io/badge/-expo-888888?style=for-the-badge&logo=expo) 
 ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) 
 ![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui)
-![Flask](https://img.shields.io/badge/Flask-8f8b66?style=for-the-badge&logo=8f8b66&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-8f8b66?style=for-the-badge&logo=flask&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-e1f0fa?style=for-the-badge&logo=sass) 
 ![Next.js](https://img.shields.io/badge/Next.js-db4c77?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
