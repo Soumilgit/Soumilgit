@@ -57,7 +57,7 @@
 ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) 
 ![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui) 
 ![SCSS](https://img.shields.io/badge/-SCSS-e1f0fa?style=for-the-badge&logo=sass) 
-![Next.js](https://img.shields.io/badge/-NEXTJS-c5c5da?style=for-the-badge&logo=next) 
+![Next.js](https://img.shields.io/badge/Next.js-c5c5da?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 # <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
 
