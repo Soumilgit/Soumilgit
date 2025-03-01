@@ -67,7 +67,7 @@
 
 <span>
   <a href="url"><img width="49%" height="49%" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent" alt="GitHub Stats"></a>
-  <a href="url"><img width="49%" height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=6&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages"></a>
+  <a href="url"><img width="49%" height="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages"></a>
 </span>
 
 <br>
