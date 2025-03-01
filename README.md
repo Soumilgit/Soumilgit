@@ -67,17 +67,28 @@
 
 <div align="center">
 
-
-<p><img width=45.25% align="left" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent" alt="Soumilgit" /></p>
-<p><img width=29.5%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Soumilgit" /></p>
-
-
-<img width=45% align="left" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/94490568-18ad-4850-a6e0-455b3720f5c7.svg"/>
-<img width=45% align="right" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/8a8d4681-71f1-4d7d-a474-c079b078d701.svg" alt="WakaTime Stats">
+<table>
+  <tr>
+    <td align="center">
+      <img width=45% src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent" alt="Soumilgit Stats"/>
+    </td>
+    <td align="center">
+      <img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width=45% src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/94490568-18ad-4850-a6e0-455b3720f5c7.svg" alt="WakaTime Coding Activity"/>
+    </td>
+    <td align="center">
+      <img width=45% src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/8a8d4681-71f1-4d7d-a474-c079b078d701.svg" alt="WakaTime Stats"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-
+---
 
 # Pinned repositories ⬇️ :
 
