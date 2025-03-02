@@ -66,7 +66,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged&show_icons=true&theme=transparent" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=14&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages">
  
 
 <br>
