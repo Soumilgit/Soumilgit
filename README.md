@@ -28,69 +28,17 @@
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Tech Stack
 
-### 🖥️ Programming Languages
-| Language      | Badge |
-|--------------|-------|
-| Python       | ![Python](https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python) |
-| C           | ![C](https://img.shields.io/badge/c-4B0082?style=for-the-badge&logo=c&logoColor=white) |
-| C++         | ![C++](https://img.shields.io/badge/c++-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| JavaScript  | ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black) |
-| TypeScript  | ![TypeScript](https://img.shields.io/badge/-typescript-00008B?style=for-the-badge&logo=typescript&logoColor=white) |
-| PHP         | ![PHP](https://img.shields.io/badge/-php-FFB6C1?style=for-the-badge&logo=php) |
-| SQL         | ![SQL](https://img.shields.io/badge/-mysql-c2b709?style=for-the-badge&logo=mysql) |
+| Category                | Skills |
+|-------------------------|--------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/c-4B0082?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-typescript-00008B?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-php-FFB6C1?style=for-the-badge&logo=php) ![SQL](https://img.shields.io/badge/-mysql-c2b709?style=for-the-badge&logo=mysql) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/-HTML5-FFA500?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-0000FF?style=for-the-badge&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-e1f0fa?style=for-the-badge&logo=sass) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F6CEFC?style=for-the-badge&logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D98BA?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JQuery](https://img.shields.io/badge/-jquery-AECCE4?style=for-the-badge&logo=jquery) ![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui) |
+| **Frontend Frameworks** | ![React](https://img.shields.io/badge/-ReactJS-448ee4?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/ReactNative-87CEFA?style=for-the-badge&logo=react&logoColor=448EE4) ![Next.js](https://img.shields.io/badge/Next.js-db4c77?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Expo](https://img.shields.io/badge/-expo-888888?style=for-the-badge&logo=expo) ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) |
+| **Backend Development** | ![NodeJS](https://img.shields.io/badge/-NodeJS-454545?style=for-the-badge&logo=node.js&logoColor=pink) ![Express.js](https://img.shields.io/badge/-ExpressJS-808080?style=for-the-badge&logo=express) ![Flask](https://img.shields.io/badge/Flask-8f8b66?style=for-the-badge&logo=flask&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-013220?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/-mysql-c2b709?style=for-the-badge&logo=mysql) ![Firebase](https://img.shields.io/badge/-firebase-FFAE42?style=for-the-badge&logo=firebase) |
+| **Cloud & Deployment** | ![Google Cloud](https://img.shields.io/badge/-googlecloud-9ACD32?style=for-the-badge&logo=googlecloud) ![Vercel](https://img.shields.io/badge/-Vercel-3a3b3c?style=for-the-badge&logo=vercel) |
+| **Tools & Utilities** | ![Git](https://img.shields.io/badge/-Git-FFD580?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-b2beb5?style=for-the-badge&logo=github) ![Postman](https://img.shields.io/badge/Postman-FF8C00?style=for-the-badge&logo=postman&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-5c2c06?style=for-the-badge&logo=vim) |
+| **Others** | ![Latex](https://img.shields.io/badge/-latex-013220?style=for-the-badge&logo=latex) |
 
-### 🌐 Web Development
-| Technology     | Badge |
-|---------------|-------|
-| HTML5         | ![HTML5](https://img.shields.io/badge/-HTML5-FFA500?style=for-the-badge&logo=html5) |
-| CSS3          | ![CSS3](https://img.shields.io/badge/-CSS3-0000FF?style=for-the-badge&logo=css3) |
-| SCSS          | ![SCSS](https://img.shields.io/badge/-SCSS-e1f0fa?style=for-the-badge&logo=sass) |
-| Bootstrap     | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F6CEFC?style=for-the-badge&logo=bootstrap) |
-| Tailwind CSS  | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D98BA?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| JQuery        | ![JQuery](https://img.shields.io/badge/-jquery-AECCE4?style=for-the-badge&logo=jquery) |
-| Material UI   | ![MaterialUI](https://img.shields.io/badge/-materialui-0000FF?style=for-the-badge&logo=materialui) |
-
-### 📱 Frontend Frameworks & Libraries
-| Framework/Library | Badge |
-|------------------|-------|
-| React           | ![React](https://img.shields.io/badge/-ReactJS-448ee4?style=for-the-badge&logo=react) |
-| React Native    | ![React Native](https://img.shields.io/badge/ReactNative-87CEFA?style=for-the-badge&logo=react&logoColor=448EE4) |
-| Next.js         | ![Next.js](https://img.shields.io/badge/Next.js-db4c77?style=for-the-badge&logo=nextdotjs&logoColor=white) |
-| Expo            | ![Expo](https://img.shields.io/badge/-expo-888888?style=for-the-badge&logo=expo) |
-| Three.js        | ![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=threejs) |
-
-### ⚙️ Backend Development
-| Technology   | Badge |
-|-------------|-------|
-| Node.js     | ![NodeJS](https://img.shields.io/badge/-NodeJS-454545?style=for-the-badge&logo=node.js&logoColor=pink) |
-| Express.js  | ![Express.js](https://img.shields.io/badge/-ExpressJS-808080?style=for-the-badge&logo=express) |
-| Flask       | ![Flask](https://img.shields.io/badge/Flask-8f8b66?style=for-the-badge&logo=flask&logoColor=white) |
-
-### 🗄️ Databases
-| Database  | Badge |
-|----------|-------|
-| MongoDB  | ![MongoDB](https://img.shields.io/badge/-MongoDB-013220?style=for-the-badge&logo=mongodb) |
-| MySQL    | ![SQL](https://img.shields.io/badge/-mysql-c2b709?style=for-the-badge&logo=mysql) |
-| Firebase | ![Firebase](https://img.shields.io/badge/-firebase-FFAE42?style=for-the-badge&logo=firebase) |
-
-### ☁️ Cloud & Deployment
-| Platform       | Badge |
-|---------------|-------|
-| Google Cloud  | ![Google Cloud](https://img.shields.io/badge/-googlecloud-9ACD32?style=for-the-badge&logo=googlecloud) |
-| Vercel        | ![Vercel](https://img.shields.io/badge/-Vercel-3a3b3c?style=for-the-badge&logo=vercel) |
-
-### 🛠️ Tools & Utilities
-| Tool      | Badge |
-|----------|-------|
-| Git      | ![Git](https://img.shields.io/badge/-Git-FFD580?style=for-the-badge&logo=git) |
-| GitHub   | ![GitHub](https://img.shields.io/badge/-GitHub-b2beb5?style=for-the-badge&logo=github) |
-| Postman  | ![Postman](https://img.shields.io/badge/Postman-FF8C00?style=for-the-badge&logo=postman&logoColor=white) |
-| Vim      | ![Vim](https://img.shields.io/badge/-Vim-5c2c06?style=for-the-badge&logo=vim) |
-
-### 📄 Others
-| Category  | Badge |
-|----------|-------|
-| LaTeX    | ![Latex](https://img.shields.io/badge/-latex-013220?style=for-the-badge&logo=latex) |
 
 # <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
 
