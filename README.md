@@ -80,10 +80,7 @@
 </div>
 
 
-
-
-
-# Pinned repositories ⬇️ :
+## <img src = "https://media3.giphy.com/media/ZtJUz2AomrhiOyWhMO/giphy.gif?cid=6c09b952znzgfsaawvntwpx05nt3o63di1evlaxlcj4qahlz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "20"> Pinned repositories  :
 
 <table>
   <tr>
