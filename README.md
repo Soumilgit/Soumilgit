@@ -37,7 +37,7 @@
 | **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-013220?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/-mysql-c2b709?style=for-the-badge&logo=mysql) ![Firebase](https://img.shields.io/badge/-firebase-FFAE42?style=for-the-badge&logo=firebase) |
 | **Cloud & Deployment** | ![Google Cloud](https://img.shields.io/badge/-googlecloud-9ACD32?style=for-the-badge&logo=googlecloud) ![Vercel](https://img.shields.io/badge/-Vercel-3a3b3c?style=for-the-badge&logo=vercel) |
 | **Tools & Utilities** | ![Git](https://img.shields.io/badge/-Git-FFD580?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-b2beb5?style=for-the-badge&logo=github) ![Postman](https://img.shields.io/badge/Postman-FF8C00?style=for-the-badge&logo=postman&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-5c2c06?style=for-the-badge&logo=vim) |
-| **Others** | ![Latex](https://img.shields.io/badge/-latex-013220?style=for-the-badge&logo=latex) |
+| **Others** | ![Latex](https://img.shields.io/badge/-latex-013220?style=for-the-badge&logo=latex) ![JSON](https://img.shields.io/badge/-json-ccff00?style=for-the-badge&logo=json&logoColor=black) |
 
 
 # <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
