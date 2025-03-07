@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/Linktree-%23006400.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
   </a>
 
-  <a href="https://drive.google.com/file/d/1JlKKgjUN5vO9SyJHoYxhanVdfZZHhURr/view?usp=sharing">
-    <img src="https://drive.google.com/file/d/1Fmy7ifsbaBwK_91HXcEf3QQMyiRy21oF/view?usp=sharing" alt="Resume Link" style="margin-bottom: 5px;">
+  <a href="https://drive.google.com/file/d/1Fmy7ifsbaBwK_91HXcEf3QQMyiRy21oF/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
   </a>
   <a href="https://tr.ee/mnjvI-WcHn">
     <img src="https://img.shields.io/badge/Chatbot-red?style=for-the-badge&logo=chatbot&logoColor=white" alt="Chatbot Link" style="margin-bottom: 5px;">
