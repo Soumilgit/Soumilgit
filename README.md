@@ -77,7 +77,7 @@
     </td>
     <td>
       <a href="https://github.com/Soumilgit/Innoquest-Hackerspace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Innoquest-Hackerspace&theme=transparent" alt="https://github.com/Soumilgit/Meditation-App_React-Native">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Meditation-App_React-Native&theme=transparent" alt="https://github.com/Soumilgit/Meditation-App_React-Native">
       </a>
     </td>
   </tr>
