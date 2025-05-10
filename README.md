@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Linktree-%23006400.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
   </a>
 
-  <a href="https://drive.google.com/file/d/1ZBLQJyNfhDvwdsZk3RpSs74i3BZSwU1J/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/10tro5O8xgLXmbGmcL5tmyGx_BJLUHOyg/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
   </a>
   <a href="https://tr.ee/mnjvI-WcHn">
