@@ -70,8 +70,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Coded_A_Responsive_Terminal&theme=transparent" />
 </a>
 <br/>
-<a href="https://github.com/Soumilgit/Screen-Recorder_ChromeExtension">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Screen-Recorder_ChromeExtension&theme=transparent" />
+<a href="https://github.com/Soumilgit/Screen-Recorder-Chrome-Extension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Screen-Recorder-Chrome-Extension&theme=transparent" />
 </a>
 <a href="https://github.com/Soumilgit/Meditation-App_React-Native">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Meditation-App_React-Native&theme=transparent" />
