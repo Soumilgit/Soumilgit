@@ -61,32 +61,23 @@
 
 ## <img src = "https://media3.giphy.com/media/ZtJUz2AomrhiOyWhMO/giphy.gif?cid=6c09b952znzgfsaawvntwpx05nt3o63di1evlaxlcj4qahlz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "20"> Pinned repositories  :
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Soumilgit/AI_ML_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects&theme=transparent" width="400" alt="AI_ML_Projects">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Soumilgit/Coded_A_Responsive_Terminal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Coded_A_Responsive_Terminal&theme=transparent" width="400" alt="Coded_A_Responsive_Terminal">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Soumilgit/Screen-Recorder_ChromeExtension">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Screen-Recorder_ChromeExtension&theme=transparent" width="400" alt="Screen-Recorder_ChromeExtension">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Soumilgit/Meditation-App_React-Native">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Meditation-App_React-Native&theme=transparent" width="400" alt="Meditation-App_React-Native">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/Soumilgit/AI-ML_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI-ML_Projects&theme=transparent" />
+</a>
+<a href="https://github.com/Soumilgit/Coded_A_Responsive_Terminal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Coded_A_Responsive_Terminal&theme=transparent" />
+</a>
+<br/>
+<a href="https://github.com/Soumilgit/Screen-Recorder_ChromeExtension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Screen-Recorder_ChromeExtension&theme=transparent" />
+</a>
+<a href="https://github.com/Soumilgit/Meditation-App_React-Native">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Meditation-App_React-Native&theme=transparent" />
+</a>
+
+</div>
 
 
 
