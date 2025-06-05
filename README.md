@@ -64,9 +64,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/Soumilgit/AI_ML_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI_ML_Projects&theme=transparent" width="400" alt="AI_ML_Projects">
-      </a>
+      
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Soumilgit/Coded_A_Responsive_Terminal">
