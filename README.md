@@ -17,8 +17,8 @@
   <a href="https://drive.google.com/file/d/14w3fHyg5zo4OmqkSPyarI-JWvSdzO59j/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
   </a>
-  <a href="https://tr.ee/mnjvI-WcHn">
-    <img src="https://img.shields.io/badge/Chatbot-red?style=for-the-badge&logo=chatbot&logoColor=white" alt="Chatbot Link" style="margin-bottom: 5px;">
+ <a href="https://codolio.com/profile/uQSHdtbA/">
+    <img src="https://img.shields.io/badge/Codolio-red?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio Link">
 </a>
 
 
