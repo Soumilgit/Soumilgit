@@ -51,20 +51,20 @@
 <br>
 
 <span>
-     <img width="49%" height="49%" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/94490568-18ad-4850-a6e0-455b3720f5c7.svg" alt="WakaTime Coding Activity">
-     <img width="49%" height="49%" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/8a8d4681-71f1-4d7d-a474-c079b078d701.svg" alt="WakaTime Stats">
-     
+     <img width="95%" height="95%" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/027a1fee-d7ec-4af4-8838-9d01d199e935.svg" alt="WakaTime Coding Activity">
 </span>
-
+<br>
+<span>
+<img width="95%" height="95%" src="https://wakatime.com/share/@eed507df-a3f2-48b3-934c-090a4e81404b/073404a9-858e-4eac-ac93-6c59d2820584.svg" alt="WakaTime Stats">
+</span>
 </div>
 
 
 ## <img src = "https://media3.giphy.com/media/ZtJUz2AomrhiOyWhMO/giphy.gif?cid=6c09b952znzgfsaawvntwpx05nt3o63di1evlaxlcj4qahlz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "20"> Pinned repositories  :
 
 <div align="center">
-
-<a href="https://github.com/Soumilgit/AI-ML_Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=AI-ML_Projects&theme=transparent" />
+<a href="https://github.com/Soumilgit/SY_Resources">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=SY_Resources&theme=transparent" />
 </a>
 <a href="https://github.com/Soumilgit/Coded_A_Responsive_Terminal">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Coded_A_Responsive_Terminal&theme=transparent" />
@@ -76,7 +76,6 @@
 <a href="https://github.com/Soumilgit/Meditation-App_React-Native">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumilgit&repo=Meditation-App_React-Native&theme=transparent" />
 </a>
-
 </div>
 
 
