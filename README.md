@@ -45,7 +45,7 @@
 <div align="center">
 
   <div style="display: flex; justify-content: center; width: 100%;">
-    <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&show_owner=true&line_height=36.9" alt="GitHub Stats" />
+    <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&show_owner=true&line_height=36.9" alt="GitHub Stats" />
     <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumilgit&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages" />
   </div>
 
