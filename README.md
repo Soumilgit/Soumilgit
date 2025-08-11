@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Linktree-%23006400.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
   </a>
 
-  <a href="https://drive.google.com/file/d/14w3fHyg5zo4OmqkSPyarI-JWvSdzO59j/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1KFA-tc2UudtuFqZIpwLM2sOAzXrX60HR/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
   </a>
  <a href="https://codolio.com/profile/uQSHdtbA/">
@@ -39,8 +39,7 @@
 | **Tools & Utilities** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000) ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000) |
 | **Others** | ![Latex](https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white) ![JSON](https://img.shields.io/badge/-json-ccff00?style=for-the-badge&logo=json&logoColor=black) ![EmailJS](https://img.shields.io/badge/-EmailJS-FF9A00?style=for-the-badge&logo=mailboxdotorg&logoColor=white) ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white) | 
 
-
-# <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
+# <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soumilgit&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&show_owner=true&line_height=33.9" alt="GitHub Stats" />
@@ -48,9 +47,7 @@
 </p>
 
 <div width="100%">
-  <a href="https://github.com/Soumilgit/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Soumilgit&theme=transparent&row=3&column=3&margin-w=5&no-frame=true" width="100%" alt="GitHub Trophies">
-  </a>
+    <img src="https://github-trophies.vercel.app/?username=Soumilgit&theme=algolia&no-frame=true&row=2&column=5&no-bg=true" width="100%" alt="GitHub Trophies">
 </div>
 
 <p align="center">
