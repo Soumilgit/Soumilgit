@@ -51,7 +51,7 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://wakatime.com/share/@sam_Muk/48090071-b3d1-4733-98f1-17232fc20806.svg" alt="WakaTime Stats" />
+  <img width="100%" src="https://wakatime.com/share/@sam_Muk/697db0cb-7d48-461a-bd59-5d911f78a244.svg" alt="WakaTime Stats" />
 </p>
 
 
