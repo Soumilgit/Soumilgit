@@ -21,7 +21,7 @@
 # <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api?username=Soumilgit&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&show_owner=true&line_height=33&cache_seconds=0" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api?username=Soumilgit&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&line_height=33&cache_seconds=0" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api/top-langs/?username=Soumilgit&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
