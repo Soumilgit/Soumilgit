@@ -4,27 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumilgit&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Soumilgit" /></p>
 
-# <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> My Links
-
-<div style="display: flex; gap: 10px; align-items: center; margin-top: 5px;">
-     <a href="https://soumilm.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio Link" style="margin-bottom: 5px;">
-</a>
-  <a href="https://linktr.ee/SoumilM">
-    <img src="https://img.shields.io/badge/Linktree-%23006400.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
-  </a>
-
-  <a href="https://drive.google.com/file/d/1KFA-tc2UudtuFqZIpwLM2sOAzXrX60HR/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
-  </a>
- <a href="https://codolio.com/profile/uQSHdtbA/">
-    <img src="https://img.shields.io/badge/Codolio-red?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio Link">
-</a>
-
-
-  
-</div>
-
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Core Tech
 
