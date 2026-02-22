@@ -40,10 +40,7 @@
 
  <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api?username=Soumilgit&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&line_height=33&cache_seconds=0" alt="GitHub Stats" />
 
-<p align="center">
-
-  <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api/top-langs/?username=Soumilgit&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
+<img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api/top-langs/?username=Soumilgit&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages" />
 
 <div width="100%">
     <img src="https://github-trophies.vercel.app/?username=Soumilgit&theme=algolia&no-frame=true&row=2&column=5&no-bg=true" width="100%" alt="GitHub Trophies">
