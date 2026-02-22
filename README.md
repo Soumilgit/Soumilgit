@@ -4,6 +4,24 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumilgit&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Soumilgit" /></p>
 
+# <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> My Links
+
+<div style="display: flex; gap: 10px; align-items: center; margin-top: 5px;">
+     <a href="https://soumilm.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio Link" style="margin-bottom: 5px;">
+</a>
+  <a href="https://linktr.ee/SoumilM">
+    <img src="https://img.shields.io/badge/Linktree-%23006400.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
+  </a>
+
+  <a href="https://drive.google.com/file/d/1KFA-tc2UudtuFqZIpwLM2sOAzXrX60HR/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" style="margin-bottom: 5px;">
+  </a>
+ <a href="https://codolio.com/profile/uQSHdtbA/">
+    <img src="https://img.shields.io/badge/Codolio-red?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio Link">
+</a>
+
+</div>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Core Tech
 
@@ -19,6 +37,17 @@
 | **Cloud & Deployment** | ![GCloud](https://img.shields.io/badge/-gcloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-3a3b3c?style=for-the-badge&logo=vercel) ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) |
 
 # <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My Stats
+
+ <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api?username=Soumilgit&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&line_height=33&cache_seconds=0" alt="GitHub Stats" />
+
+<p align="center">
+
+  <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api/top-langs/?username=Soumilgit&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+
+<div width="100%">
+    <img src="https://github-trophies.vercel.app/?username=Soumilgit&theme=algolia&no-frame=true&row=2&column=5&no-bg=true" width="100%" alt="GitHub Trophies">
+</div>
 
 <p align="center">
   <img width="100%" src="https://wakatime.com/share/@sam_Muk/da57fee5-a136-4e6a-8c9d-285b7dcc14d3.svg" alt="WakaTime Stats" />
