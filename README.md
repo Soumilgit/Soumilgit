@@ -8,8 +8,8 @@
 
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 5px;">
      <a href="https://soumilm.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio Link" style="margin-bottom: 5px;">
-</a>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Portfolio Link" style="margin-bottom: 5px;">
+    </a>
   <a href="https://linktr.ee/SoumilM">
     <img src="https://img.shields.io/badge/Linktree-%23006400.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
   </a>
