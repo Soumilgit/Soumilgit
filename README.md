@@ -10,6 +10,12 @@
      <a href="https://soumilm.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Portfolio Link" style="margin-bottom: 5px;">
     </a>
+    <a href="https://linktr.ee/SoumilM">
+    <img src="https://img.shields.io/badge/Linktree-%23006400.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
+  </a>
+ <a href="https://codolio.com/profile/uQSHdtbA/">
+    <img src="https://img.shields.io/badge/Codolio-red?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio Link">
+</a>
 
 
 </div>
