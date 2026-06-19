@@ -1,8 +1,4 @@
-
-# Profile Views
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumilgit&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Soumilgit" /></p>
+<img width="3780" height="1890" alt="Soumil New Banner" src="https://github.com/user-attachments/assets/b06d2f51-5e14-47d1-9708-aa27f79ef677" />
 
 # <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> My Links
 
