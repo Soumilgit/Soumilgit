@@ -38,23 +38,12 @@ def save_source(source: str, destination: Path) -> None:
 
 def make_light_banner(dark_path: Path, light_path: Path) -> None:
     image = Image.open(dark_path).convert("RGB")
+    original = image.copy()
     width, height = image.size
     pixels = image.load()
 
-    # The circular laptop photo should stay photographic; the surrounding
-    # graphic treatment flips from dark to light.
-    photo_cx = width * 0.779
-    photo_cy = height * 0.500
-    photo_radius = width * 0.166
-    preserve_radius = photo_radius * 0.940
-    preserve_radius_sq = preserve_radius * preserve_radius
-
     for y in range(height):
-        dy_sq = (y - photo_cy) * (y - photo_cy)
         for x in range(width):
-            if (x - photo_cx) * (x - photo_cx) + dy_sq <= preserve_radius_sq:
-                continue
-
             r, g, b = pixels[x, y]
             lightness = (0.2126 * r) + (0.7152 * g) + (0.0722 * b)
             saturation = max(r, g, b) - min(r, g, b)
@@ -63,6 +52,21 @@ def make_light_banner(dark_path: Path, light_path: Path) -> None:
                 pixels[x, y] = (255, 255, 255)
             elif saturation < 72 and lightness > 118:
                 pixels[x, y] = (0, 0, 0)
+
+    # Restore the laptop/photo area from the original dark banner. The source
+    # PNG is flattened, so preserving this measured circle is more reliable
+    # than trying to classify individual photo pixels by color.
+    photo_cx = width * (2923 / 3780)
+    photo_cy = height * (1033 / 1890)
+    photo_radius = min(width, height) * (665 / 1890)
+    photo_radius_sq = photo_radius * photo_radius
+    original_pixels = original.load()
+
+    for y in range(height):
+        dy_sq = (y - photo_cy) * (y - photo_cy)
+        for x in range(width):
+            if (x - photo_cx) * (x - photo_cx) + dy_sq <= photo_radius_sq:
+                pixels[x, y] = original_pixels[x, y]
 
     light_path.parent.mkdir(parents=True, exist_ok=True)
     image.save(light_path)
