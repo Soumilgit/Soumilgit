@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-  <img width="3780" height="1890" alt="Soumil Mukhopadhyay - Software Developer" src="./assets/banner-light.png">
+  <img width="100%" alt="Soumil Mukhopadhyay - Software Developer" src="./assets/banner-light.png">
 </picture>
 
 # <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> My Links
