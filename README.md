@@ -1,4 +1,8 @@
-<img width="3780" height="1890" alt="Soumil New Banner" src="https://github.com/user-attachments/assets/b06d2f51-5e14-47d1-9708-aa27f79ef677" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+  <img width="3780" height="1890" alt="Soumil Mukhopadhyay - Software Developer" src="./assets/banner-light.png">
+</picture>
 
 # <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> My Links
 
