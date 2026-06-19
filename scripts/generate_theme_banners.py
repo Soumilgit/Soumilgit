@@ -12,7 +12,7 @@ import shutil
 from pathlib import Path
 from urllib.request import urlopen
 
-from PIL import Image, ImageDraw
+from PIL import Image
 
 
 DEFAULT_DARK_SOURCE = (
@@ -46,7 +46,7 @@ def make_light_banner(dark_path: Path, light_path: Path) -> None:
     photo_cx = width * 0.779
     photo_cy = height * 0.500
     photo_radius = width * 0.166
-    preserve_radius = photo_radius * 1.025
+    preserve_radius = photo_radius * 0.940
     preserve_radius_sq = preserve_radius * preserve_radius
 
     for y in range(height):
@@ -63,19 +63,6 @@ def make_light_banner(dark_path: Path, light_path: Path) -> None:
                 pixels[x, y] = (255, 255, 255)
             elif saturation < 72 and lightness > 118:
                 pixels[x, y] = (0, 0, 0)
-
-    draw = ImageDraw.Draw(image)
-    outline_width = max(6, round(width * 0.004))
-    draw.ellipse(
-        (
-            photo_cx - photo_radius,
-            photo_cy - photo_radius,
-            photo_cx + photo_radius,
-            photo_cy + photo_radius,
-        ),
-        outline=(0, 0, 0),
-        width=outline_width,
-    )
 
     light_path.parent.mkdir(parents=True, exist_ok=True)
     image.save(light_path)
