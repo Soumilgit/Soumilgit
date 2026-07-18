@@ -24,9 +24,9 @@
 
 <p align="center">
      
-  <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api?username=Soumilgit&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&show_owner=true&line_height=33&cache_seconds=0" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api?username=Soumilgit&v=6&show=discussions_answered,prs_merged&show_icons=true&theme=transparent&show_owner=true&line_height=39&cache_seconds=0&padding_y=52&header_size=20&text_size=18&show_owner=true&cache_seconds=0" alt="GitHub Stats" />
      
-  <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api/top-langs/?username=Soumilgit&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api/top-langs/?username=Soumilgit&v=5&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages" />
   
 </p>
 
