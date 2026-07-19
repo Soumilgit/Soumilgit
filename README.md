@@ -50,7 +50,6 @@
 ### Core Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-7285A5?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-A865B5?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/plotly-7A76FF?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pil](https://img.shields.io/badge/Pil-786F80?style=for-the-badge&logo=imagedotsc&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-5ba8ff?style=for-the-badge&logo=ethereum&logoColor=fffa93)
@@ -60,7 +59,6 @@
 ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-8968CD?style=for-the-badge&logo=openaigym&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
 
 ### Web Development
@@ -74,11 +72,11 @@
 
 ### Frontend Frameworks
 ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Expo](https://img.shields.io/badge/-expo-888888?style=for-the-badge&logo=expo&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-three-000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart-ff6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Backend Development
 ![NodeJS](https://img.shields.io/badge/-Node-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
@@ -87,7 +85,6 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-655967?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -102,7 +99,6 @@
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 
 
