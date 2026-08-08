@@ -63,25 +63,22 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-808080?style=for-the-badge&logo=express)
-![Kafka](https://img.shields.io/badge/Kafka-655967?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
-### AI, ML & Cloud
+### AI-ML, Web3 & Cloud
 ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-8968CD?style=for-the-badge&logo=openaigym&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-7285A5?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-A865B5?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-5ba8ff?style=for-the-badge&logo=ethereum&logoColor=fffa93)
+![Ethers](https://img.shields.io/badge/Ethers-2535A0?style=for-the-badge&logo=ethers&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-3a3b3c?style=for-the-badge&logo=vercel)
 ![GCloud](https://img.shields.io/badge/-gcloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-5ba8ff?style=for-the-badge&logo=ethereum&logoColor=fffa93)
-![Ethers](https://img.shields.io/badge/Ethers-2535A0?style=for-the-badge&logo=ethers&logoColor=white)
 
 
 
