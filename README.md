@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://wakatime.com/share/@sam_Muk/da57fee5-a136-4e6a-8c9d-285b7dcc14d3.svg" alt="WakaTime Stats" />
+  <img width="100%" src="https://wakatime.com/share/@sam_Muk/268cd655-75d9-4292-a4ac-5c11d7a18b06.svg" alt="WakaTime Stats" />
 </p>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Core Tech
