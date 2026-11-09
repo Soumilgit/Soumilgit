@@ -12,9 +12,10 @@
     </a>
     <a href="https://linktr.ee/SoumilM">
     <img src="https://img.shields.io/badge/Linktree-%23006400.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;">
-  </a>
-
-
+    </a>
+     <a href="https://codolio.com/profile/uQSHdtbA/">
+    <img src="https://img.shields.io/badge/Codolio-red?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio Link">
+    </a>
 </div>
 
 # <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My Stats
